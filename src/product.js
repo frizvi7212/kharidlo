@@ -13,7 +13,6 @@ const products = [
     image: "/assets/banana.jpg",
     description: "hkejf",
   },
-  ,
   {
     id: 103,
     name: "mango",
